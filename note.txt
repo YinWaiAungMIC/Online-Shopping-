@@ -1,0 +1,12 @@
+HOMEWORK
+-----------
+
+-CRUD(Sweet Alert)
+	-custom input validation error//DONE
+	-image upload in update process//DONE
+	-delete  images from storage if changes//DONE
+
+		-categories,brands,subcategories(CRUD)
+
+		-upload into github repo
+		
